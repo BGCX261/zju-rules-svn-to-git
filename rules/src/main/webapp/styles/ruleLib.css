@@ -1,0 +1,13 @@
+div #navleft {
+	float:left;
+	width:250px;
+	height:500px;
+	background:#fff;
+}
+
+div #contentright {
+	float:right;
+	width:700px;
+	height:500px;
+	background:#fff;
+}
